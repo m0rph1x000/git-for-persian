@@ -1,0 +1,14 @@
+git گیت
+version control system سیستم کنترل نسخه
+tag برچسب گذاری
+revision اصلاح، ویرایش
+revision control کنترل ویرایش
+mis-label برچسب گذاری اشتباهmis-label
+local VSC VCS محلی
+Database پایگاه داده
+mix up اختلاط
+versioninig نسخه سازی
+conflict تداخل - تضاد
+‍linux kernel هسته لینوکس
+free softaware نرم افزار آزاد
+open source منبع باز
